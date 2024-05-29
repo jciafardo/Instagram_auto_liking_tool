@@ -1,7 +1,21 @@
-# Instagram_auto_liking_tool
-Will like a specific users Instagram photos.
+# Instagram Auto Liking Tool
 
-To run:
- You must execute the executor file. That is all. 
- 
- Also note the contents of websites change meaning some of the elements may not be found. This is a easy fix however since the structure of the project remains the same.
+## Overview
+
+The Instagram Auto Liking Tool is a simple Python script that automatically likes photos from specific Instagram users. It's a convenient way to engage with content from your favorite users without having to manually like each photo.
+
+## How it Works
+
+The script utilizes web scraping techniques to navigate to the Instagram profiles of specified users and automatically like their latest photos. It simulates user interaction with the Instagram website, making it appear as if a real person is liking the photos.
+
+## Requirements
+
+- Python 3.x
+- Selenium WebDriver
+- Chrome WebDriver (or WebDriver for your preferred browser)
+
+## Installation
+
+1. Clone the repository:
+
+
