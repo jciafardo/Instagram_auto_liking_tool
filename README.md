@@ -17,5 +17,6 @@ The script utilizes web scraping techniques to navigate to the Instagram profile
 ## Installation
 
 1. Clone the repository:
+2. Run python executor.py to play game 
 
 
